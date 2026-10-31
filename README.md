@@ -1,6 +1,6 @@
 # Pairs Trading Research: Coca-Cola (KO) & PepsiCo (PEP)
 
-Ce projet implémente une recherche quantitative sur une stratégie de **Pairs Trading** (trading par paires) appliquée à deux actifs censés être fortement corrélés : ** Coca-Cola (KO)** et **PepsiCo (PEP)**.
+Ce projet implémente une recherche quantitative sur une stratégie de **Pairs Trading** (trading par paires) appliquée à deux actifs censés être fortement corrélés : **Coca-Cola (KO)** et **PepsiCo (PEP)**.
 
 ##  Objectifs du Projet
 * **Collecte et nettoyage de données financières** historiques avec l'API `yfinance`.
